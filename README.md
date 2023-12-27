@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# 6.-Client-Server-Architecture
-=======
 # UNDERSTANDNG CLIENT SERVER ARCHITECTURE WITH MYSQL AS RDBMS
 ![image intro](intro.png)
 
